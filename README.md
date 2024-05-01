@@ -4,7 +4,7 @@
 
 - <b> Identifying Vulnerabilities: OWASP Top 10 (AlgoExpert)</b>
   - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
-  - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
+  - [SSRF Vulnerability ](https://github.com/adnang12/adnang12/issues/2)
 - <b>Network Scanning (Nmap, Zenmap, Wireshark, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
