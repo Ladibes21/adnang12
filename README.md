@@ -4,7 +4,8 @@
 
 - <b> Identifying Vulnerabilities: OWASP Top 10 (AlgoExpert)</b>
   - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
+- <b>Network Scanning (Nmap, Zenmap, Wireshark, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h2>📺 Certifications </h2>
