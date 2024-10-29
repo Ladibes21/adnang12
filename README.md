@@ -5,15 +5,16 @@
 - <b> Identifying Vulnerabilities: OWASP Top 10 (AlgoExpert)</b>
   - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
   - [SSRF Vulnerability ](https://github.com/adnang12/adnang12/issues/2)
+  - [Mass Assignment_](https://github.com/adnang12/adnang12/issues/3)
 - <b>Network Scanning (Nmap, Zenmap, Wireshark, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - Vulnhub
 
 <h2>📺 Certifications </h2>
  - [CompTIA Security+ ce Certification](https://www.credly.com/badges/b73452e0-247b-4126-b8f1-a2dd6c13240c/linked_in_profile))
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me: </h2>
 
-[linkedin]: [https://www.linkedin.com/in/adnan-g-464839252/]
+<b> linkedin: www.linkedin.com/in/adnan-g-464839252 </b>
  
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
