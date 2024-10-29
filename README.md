@@ -6,7 +6,7 @@
   - [Excessive Data Exposure Vulnerability ](https://github.com/adnang12/adnang12/issues/1)
   - [SSRF Vulnerability ](https://github.com/adnang12/adnang12/issues/2)
 - <b>Network Scanning (Nmap, Zenmap, Wireshark, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b></b></i>
 
 <h2>📺 Certifications </h2>
  - [CompTIA Security+ ce Certification](https://www.credly.com/badges/b73452e0-247b-4126-b8f1-a2dd6c13240c/linked_in_profile))
