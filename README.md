@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adnan! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional </a></h1>
+<h1>Hi, I'm Adnan! <br/><a href="www.linkedin.com/in/adnan-g-464839252">Cybersecurity Professional </a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
