@@ -10,7 +10,8 @@
 
 <h2>📺 Certifications </h2>
  - [CompTIA Security+ ce Certification](https://www.credly.com/badges/b73452e0-247b-4126-b8f1-a2dd6c13240c/linked_in_profile))
-
+ - [Microsoft Office Specialist: Outlook Associate Office 2019](https://www.credly.com/badges/d2bb0a79-3204-442f-baaf-4e0c984958ef/linked_in_profile))
+ - [API Penetration Testing](https://www.credly.com/badges/58265927-02a3-442b-a689-3a3a7fa6db77/linked_in_profile)
 <h2> 🤳 Connect with me:</h2>
 
 [linkedin]: [https://www.linkedin.com/in/adnan-g-464839252/]
