@@ -8,7 +8,7 @@
   - [Mass Assignment_](https://github.com/adnang12/adnang12/issues/3)
 
 <h2>📺 Certifications </h2>
- - [CompTIA Security+ ce Certification](https://www.credly.com/badges/b73452e0-247b-4126-b8f1-a2dd6c13240c/linked_in_profile))
+ - [CompTIA Security+ ce Certification](https://www.credly.com/badges/b73452e0-247b-4126-b8f1-a2dd6c13240c/linked_in_profile)
 
 <h2> 🤳 Connect with me: </h2>
 
